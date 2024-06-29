@@ -1,0 +1,1 @@
+A C++ program designed to perform mathematical operations, namely, addition, multiplication (using the Karatsuba algorithm), and a ratio calculation (always returns 0) on input numbers based on a specified base between 2 to 10.
